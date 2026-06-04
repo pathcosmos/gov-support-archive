@@ -246,6 +246,12 @@
       "new_count": 60,
       "ongoing_count": 1375,
       "expired_count": 28
+    },
+    {
+      "date": "2026-06-04",
+      "new_count": 0,
+      "ongoing_count": 10,
+      "expired_count": 1425
     }
   ],
   "title": "🏛️ 정부지원사업 모니터"
